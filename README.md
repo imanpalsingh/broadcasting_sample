@@ -1,8 +1,7 @@
 # README
 
 This is a demonstration app for the concepts defined in my
-blog. `Broadcasting your turbo streams as you want them in Rails 7
-`.
+blog. [Broadcasting your turbo streams as you want them in Rails 7](https://blog.kiprosh.com/broadcasting-your-turbo-streams-as-you-want-them-in-rails-7/).
 
 Running locally
 
